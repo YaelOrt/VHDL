@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2023.1.1 (64-bit)
+# SW Build 3900603 on Fri Jun 16 19:31:24 MDT 2023
+# IP Build 3900379 on Sat Jun 17 05:28:05 MDT 2023
+# SharedData Build 3899622 on Fri Jun 16 03:34:24 MDT 2023
+# Start of session at: Fri Jul  5 10:20:57 2024
+# Process ID: 8120
+# Current directory: C:/Users/Trist/OneDrive/Desktop/Tuesposa/Sumador_1bit/Sumador_1bit.runs/synth_1
+# Command line: vivado.exe -log Cont_1bit.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source Cont_1bit.tcl
+# Log file: C:/Users/Trist/OneDrive/Desktop/Tuesposa/Sumador_1bit/Sumador_1bit.runs/synth_1/Cont_1bit.vds
+# Journal file: C:/Users/Trist/OneDrive/Desktop/Tuesposa/Sumador_1bit/Sumador_1bit.runs/synth_1\vivado.jou
+# Running On: Tristan, OS: Windows, CPU Frequency: 3194 MHz, CPU Physical cores: 16, Host memory: 16541 MB
+#-----------------------------------------------------------
+source Cont_1bit.tcl -notrace
